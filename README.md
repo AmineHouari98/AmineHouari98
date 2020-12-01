@@ -34,7 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim97&show_icons=true&hide=javascript,html,css)](https://github.com/salim97/github-readme-stats)
 
-[website]: https://salim97.github.io/
-[flg]: https://github.com/salim97
-[instagram]: https://www.instagram.com/salim_benabadji/
-[linkedin]: https://www.linkedin.com/in/salim/
+[website]: https://aminehouari98.github.io/amine-houari/
+[flg]: https://github.com/AmineHouari98/
+[email]: amine.houari@outlook.com
