@@ -26,7 +26,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aminehouari98&show_icons=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineHouari98&show_icons=true&hide=javascript,html,css)]
-#(https://github.com/AmineHouari98/github-readme-stats)
 
 [website]: https://aminehouari98.github.io/amine-houari/
 [flg]: https://github.com/AmineHouari98/
